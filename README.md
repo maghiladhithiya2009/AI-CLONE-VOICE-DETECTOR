@@ -51,7 +51,5 @@ Then click "Select Audio File" and choose a `.wav`, `.flac`, `.mp3`, or `.ogg` f
 - Train on more diverse, real-world audio conditions to close the generalization gap
 - Test on newer datasets (WaveFake, In-the-Wild) with unseen attack types
 - Add support for real-time microphone input
-
-## Author
-
-[Your name] — Computer Science Engineering student
+- author:
+—        maghil adhithiya      Computer Science Engineering student
